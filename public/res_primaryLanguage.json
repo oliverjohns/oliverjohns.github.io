@@ -1,0 +1,120 @@
+{
+    "basic_info": {
+      "description_header": "Hello there!",
+      "description": "I'm Oliver Johns. Software engineer with a passion for web development in all it's forms. I enjoy trying out new frameworks and solutions to solve interesting problems. Doing neat container solutions with Docker is a treat! 😄 I love the idea of Blockchain technology and what it can do for humanity as a whole.",
+      "section_name": {
+        "about": "About me",
+        "projects": "Hobby Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "TangleBoard",
+        "startDate": "2021",
+        "description": "Tangleboard is a highly experimental chat forum based on the distributed ledger technology known as IOTA. With data being stored on the IOTA ledger, no additional backend or database is needed. The forum works out of the box using only a frontend web application that interacts with the IOTA ledger.",
+        "images": [
+          "images/portfolio/tangleboard/p1.jpg",
+          "images/portfolio/tangleboard/p2.jpg"
+        ],
+        "url": "https://tangleboard.github.io/",
+        "technologies": [
+          {
+            "class": "devicon-vuejs-plain",
+            "name": "Vue"
+          }
+        ]
+      },
+      {
+        "title": "Dreamwalker",
+        "startDate": "2021",
+        "description": "Dreamwalker is a small project providing users with an interactive and meditative experience. By navigating through different relaxing soundscapes combined with visuals, one can explore different kinds of ambiance in a meditative way.",
+        "images": [
+          "images/portfolio/dreamwalker/p1.gif",
+          "images/portfolio/dreamwalker/p2.jpg"
+        ],
+        "url": "https://dreamwalka.github.io/",
+        "technologies": [
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Bartr",
+        "startDate": "2020",
+        "description": "Bartr is a web application used for casually trading items of any kind with people in your local area. By simple swiping yes or no one can match your own item you want to trade with someone elses item, after which a chat is made available where a meeting can be determined. Trading items is simple and requires no money, and it’s also great for the environment!",
+        "images": [
+          "images/portfolio/bartr/p1.jpg",
+          "images/portfolio/bartr/p2.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-ionic-original",
+            "name": "Ionic"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Netlight",
+        "title": "Analyst",
+        "years": "10.2021 - present",
+        "mainTech": [
+          "Software development"
+        ],
+        "technologies": [
+        ]
+      },
+      {
+        "company": "Linköping University",
+        "title": "Research Assistant",
+        "years": "01.2019 - 04.2021",
+        "mainTech": [
+          "Full Stack Development"
+        ],
+        "technologies": [
+          "Docker",
+          "Angular",
+          "Node.js",
+          "JavaScript",
+          "Java",
+          "Python",
+          "MySQL",
+          "Apache Ignite",
+          "Ionic",
+          "Android",
+          "Grafana"
+        ]
+      },
+      {
+        "company": "BiggerWe",
+        "title": "Full Stack Developer, Architect",
+        "years": "01.2017 - 04.2021",
+        "mainTech": [
+          "Full Stack Development"
+        ],
+        "technologies": [
+          "Docker",
+          "Vue",
+          "PHP",
+          "JavaScript",
+          "Python",
+          "Flask",
+          "MySQL"
+        ]
+      }
+    ]
+  }

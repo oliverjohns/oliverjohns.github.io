@@ -1,0 +1,120 @@
+{
+    "basic_info": {
+      "description_header": "Hallå där!",
+      "description": "Mitt namn är Oliver Johns och jag är en mjukvaruingenjör med passion för webbutveckling i alla dess slag. Jag gillar att pröva nya ramverk och lösningar för att tackla intressanta problem. Att göra snygga system med Docker är riktigt trevligt! 😄 Jag är fascinerad av blockkedjor och hur de kan hjälpa mänskligheten.",
+      "section_name": {
+        "about": "Om mig",
+        "projects": "Hobbyprojekt",
+        "skills": "Färdigheter",
+        "experience": "Erfarenheter"
+      }
+    },
+    "projects": [
+      {
+        "title": "TangleBoard",
+        "startDate": "2021",
+        "description": "Tangleboard är ett experimentellt chattforum baserat på en distribuerad ledger vid namnet IOTA. Genom att lagra data för applikation ",
+        "images": [
+          "images/portfolio/tangleboard/p1.jpg",
+          "images/portfolio/tangleboard/p2.jpg"
+        ],
+        "url": "https://tangleboard.github.io/",
+        "technologies": [
+          {
+            "class": "devicon-vuejs-plain",
+            "name": "Vue"
+          }
+        ]
+      },
+      {
+        "title": "Dreamwalker",
+        "startDate": "2021",
+        "description": "Dreamwalker är ett litet projekt där användare kan njuta av en interaktiv och meditativ upplevelse. Genom att navigera genom olika avslappnande landskap, kan man låta nyfikenheten driva en på ett meditativt sätt.",
+        "images": [
+          "images/portfolio/dreamwalker/p1.gif",
+          "images/portfolio/dreamwalker/p2.jpg"
+        ],
+        "url": "https://dreamwalka.github.io/",
+        "technologies": [
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Bartr",
+        "startDate": "2020",
+        "description": "Bartr är en webbapplikation som kan användas för att byta godtyckliga föremål med användare från ens lokalområde. Genom att svepa höger och vänster på föremål kan man enkelt matcha med någon som kan tänka sig att göra ett byte. Att byta föremål är enkelt och bra för miljön!",
+        "images": [
+          "images/portfolio/bartr/p1.jpg",
+          "images/portfolio/bartr/p2.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-ionic-original",
+            "name": "Ionic"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Netlight",
+        "title": "Analyst",
+        "years": "10.2021 - present",
+        "mainTech": [
+          "Software development"
+        ],
+        "technologies": [
+        ]
+      },
+      {
+        "company": "Linköping University",
+        "title": "Forskningsassistent",
+        "years": "01.2019 - 04.2021",
+        "mainTech": [
+          "Full Stack Development"
+        ],
+        "technologies": [
+          "Docker",
+          "Angular",
+          "Node.js",
+          "JavaScript",
+          "Java",
+          "Python",
+          "MySQL",
+          "Apache Ignite",
+          "Ionic",
+          "Android",
+          "Grafana"
+        ]
+      },
+      {
+        "company": "BiggerWe",
+        "title": "Fullstack utvecklare, Arkitekt",
+        "years": "01.2017 - 04.2021",
+        "mainTech": [
+          "Full Stack Development"
+        ],
+        "technologies": [
+          "Docker",
+          "Vue",
+          "PHP",
+          "JavaScript",
+          "Python",
+          "Flask",
+          "MySQL"
+        ]
+      }
+    ]
+  }

@@ -1,0 +1,93 @@
+{
+    "basic_info": {
+      "name": "Oliver Johns",
+      "titles": [ "Front End Developer", "Back End Developer", "Research Assistant", "Consultant" ],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/oliverjohns",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "instagram",
+          "url": "https://www.linkedin.com/in/oliver-johns-8a52b41ba/",
+          "class": "fab fa-linkedin"
+        }
+      ],
+      "image": "myProfile.png"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain",
+          "level": "95"
+        },
+        {
+          "name": "TypeScript",
+          "class": "devicon-typescript-plain",
+          "level": "90"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        {
+          "name": "Angular",
+          "class": "devicon-angularjs-plain",
+          "level": "80"
+        },
+        {
+          "name": "Vue",
+          "class": "devicon-vuejs-plain",
+          "level": "85"
+        },
+        {
+          "name": "Ionic",
+          "class": "devicon-ionic-original",
+          "level": "65"
+        },
+        {
+          "name": "NodeJS",
+          "class": "devicon-nodejs-plain",
+          "level": "65"
+        },
+        {
+          "name": "Flask",
+          "class": "devicon-flask-plain",
+          "level": "65"
+        },
+        {
+          "name": "C++",
+          "class": "devicon-cplusplus-plain",
+          "level": "75"
+        },
+        {
+          "name": "Docker",
+          "class": "devicon-docker-plain",
+          "level": "65"
+        },
+        {
+          "name": "Java",
+          "class": "devicon-java-plain",
+          "level": "65"
+        },
+        {
+          "name": "Python",
+          "class": "devicon-python-plain",
+          "level": "65"
+        },
+        {
+          "name": "MySql",
+          "class": "devicon-mysql-plain",
+          "level": "60"
+        },
+        {
+          "name": "Linux",
+          "class": "devicon-linux-plain",
+          "level": "60"
+        }
+      ]
+    }
+  }
